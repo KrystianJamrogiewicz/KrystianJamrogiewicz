@@ -1,6 +1,6 @@
 ### Hi there, I'm Krystian 👋
 
-I'm a **Mechatronics Engineer**, and I love working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development while learning: CMake and FreeRTOS.
+I'm a **Mechatronics Engineer**, and I like working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development while learning: CMake and FreeRTOS.
 
 ---
 
