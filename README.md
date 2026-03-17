@@ -35,8 +35,3 @@ I'm a **Mechatronics Engineer**, and I like working at the intersection of softw
     </td>
   </tr>
 </table>
-
----
-
-### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krystian-jamrogiewicz-8b3770280/)
