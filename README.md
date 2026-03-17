@@ -1,6 +1,6 @@
 ### Hi there, I'm Krystian 👋
 
-I'm a **Mechatronic Engineer** and I love working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development and I’m currently learning: **[CMake, FreeRTOS]**
+I'm a **Mechatronic Engineer** who loves working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development while learning **CMake** and **FreeRTOS**.
 
 ---
 
@@ -19,7 +19,7 @@ I'm a **Mechatronic Engineer** and I love working at the intersection of softwar
 ![HMI](https://img.shields.io/badge/HMI_Design-FF6600?style=for-the-badge)
 
 #### ⚙️ Engineering & Prototyping
-![Mechanics](https://img.shields.io/badge/Mechanika_(Moto/Auto)-5D4037?style=for-the-badge)
+![Mechanics](https://img.shields.io/badge/Mechanics%20🚗%20🏍️-5D4037?style=for-the-badge)
 ![Robotics](https://img.shields.io/badge/Robotics-4CAF50?style=for-the-badge)
 ![Electronics](https://img.shields.io/badge/Electronics-00796B?style=for-the-badge)
 ![3D Printing](https://img.shields.io/badge/3D_Printing-E64A19?style=for-the-badge)
