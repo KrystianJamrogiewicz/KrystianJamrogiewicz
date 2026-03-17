@@ -1,6 +1,6 @@
 ### Hi there, I'm Krystian 👋
 
-I'm a **Mechatronic Engineer** who loves working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development while learning **CMake** and **FreeRTOS**.
+I'm a **Mechatronic Engineer** and I love working at the intersection of software, electronics, and mechanics. Currently, I'm focusing on embedded development. I’m currently learning: **[CMake, FreeRTOS]**
 
 ---
 
@@ -15,14 +15,14 @@ I'm a **Mechatronic Engineer** who loves working at the intersection of software
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 #### 🏭 Industrial Automation
-![PLC](https://img.shields.io/badge/PLC_Programming_%E2%9A%99%EF%B8%8F-1A1A1A?style=for-the-badge)
-![HMI](https://img.shields.io/badge/HMI_Design_%F0%9F%92%BB-1A1A1A?style=for-the-badge)
+![PLC](https://img.shields.io/badge/PLC_Programming-FF9900?style=for-the-badge)
+![HMI](https://img.shields.io/badge/HMI_Design-FF6600?style=for-the-badge)
 
 #### ⚙️ Engineering & Prototyping
-![Mechanics](https://img.shields.io/badge/Mechanics_%F0%9F%93%90_%F0%9F%9B%A3%EF%B8%8F_🟢_%F0%9F%9A%97_🔴-2E2E2E?style=for-the-badge)
-![Robotics](https://img.shields.io/badge/Robotics_%F0%9F%A4%BE-2E2E2E?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/Electronics_%F0%9F%AA%9C-2E2E2E?style=for-the-badge)
-![3D Printing](https://img.shields.io/badge/3D_Printing_%F0%9F%🖨%B8-2E2E2E?style=for-the-badge)
+![Mechanics](https://img.shields.io/badge/Mechanika_(Moto/Auto)-5D4037?style=for-the-badge)
+![Robotics](https://img.shields.io/badge/Robotics-4CAF50?style=for-the-badge)
+![Electronics](https://img.shields.io/badge/Electronics-00796B?style=for-the-badge)
+![3D Printing](https://img.shields.io/badge/3D_Printing-E64A19?style=for-the-badge)
 
 #### 📐 CAD & 3D Design
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
